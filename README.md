@@ -129,24 +129,5 @@ This repository was created to:
 > This is a personal learning project. While accuracy is aimed for, models may be simplified, not fully validated, or optimized.  
 > Always verify calculations before using for production, trading, or financial advice.
 
----
 
-## 👤 Author
-
-**Mohammed Laike**  
-🎓 BTech in Data Science | 📊 CQF Learner  
-📍 India  
-🔗 [GitHub Profile](https://github.com/MohammedLike)
-
----
-
-## ⭐️ Show Support
-
-If you find this repository insightful, feel free to:
-
-- ⭐ Star it
-- 🛠 Contribute ideas or corrections
-- 📢 Share it with fellow quant learners
-
----
 
