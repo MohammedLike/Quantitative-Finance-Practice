@@ -19,9 +19,6 @@ A comprehensive collection of quantitative finance models and techniques impleme
 - [CQF Practice](#cqf-practice)
 - [Technical Requirements](#technical-requirements)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ## Overview
 
@@ -324,60 +321,5 @@ Experimental workspace for testing new concepts and methodologies.
    jupyter notebook
    ```
 
-### Troubleshooting
-- Ensure Python version compatibility
-- Update pip to latest version before installing dependencies
-- For Windows users, consider installing Visual Studio Build Tools for certain packages
-
-## Contributing
-
-Contributions are welcome and appreciated. Please follow these guidelines:
-
-### Contribution Process
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/enhancement-name`)
-3. Make your changes with appropriate documentation
-4. Add tests for new functionality where applicable
-5. Commit changes (`git commit -m 'Add enhancement description'`)
-6. Push to your branch (`git push origin feature/enhancement-name`)
-7. Submit a pull request with detailed description
-
-### Code Standards
-- Follow PEP 8 style guidelines
-- Include comprehensive docstrings for functions and classes
-- Add type hints where appropriate
-- Maintain consistent naming conventions
-- Include references for implemented models
-
-### Areas for Contribution
-- Additional quantitative models and techniques
-- Performance optimizations and code improvements
-- Documentation enhancements and error corrections
-- Unit tests and validation procedures
-- Real-world application examples
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for complete terms and conditions.
-
-## Author
-
-**Mohammed Laike**  
-BTech in Data Science | CQF Candidate  
-Jodhpur, Rajasthan, India
-
-### Professional Links
-- **GitHub**: [github.com/MohammedLike](https://github.com/MohammedLike)
-- **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/mohammedlaike)
-- **Email**: [Professional Contact](mailto:your.email@example.com)
-
-### About
-Passionate about quantitative finance and data science with a focus on bridging theoretical concepts with practical implementations. Currently pursuing the Certificate in Quantitative Finance (CQF) to deepen expertise in mathematical finance and risk management.
-
----
-
 **Disclaimer**: This repository is intended for educational and research purposes. While every effort has been made to ensure accuracy, the implementations should be thoroughly validated before any practical application. The author assumes no responsibility for any financial decisions made based on this code.
 
----
-
-*Repository Last Updated: August 2025*
